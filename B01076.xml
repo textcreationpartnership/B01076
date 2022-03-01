@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning for maides: or The false dissembling,, [sic] cogging, cunning, cozening young man, who long did try and use his skill, to wo a coy young maid to his will and when he had obtain'd her love, to her he very false did prove. To a dainty new tune, called, No, no, not I.</title>
+            <author>Crimsal, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01076</idno>
+            <idno type="STC">STC 5430</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[448]</idno>
+            <idno type="EEBO-CITATION">99892101</idno>
+            <idno type="PROQUEST">ocm99892101</idno>
+            <idno type="VID">183154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183154)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[238])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning for maides: or The false dissembling,, [sic] cogging, cunning, cozening young man, who long did try and use his skill, to wo a coy young maid to his will and when he had obtain'd her love, to her he very false did prove. To a dainty new tune, called, No, no, not I.</title>
+                  <author>Crimsal, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Iohn Wright the younger, dwelling at the upper end of the Old-Bayley.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1636?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "All in a May morning in the merry month of May ..."</note>
+                  <note>Signed: R. Climsall.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <div type="part">
+               <pb n="448" facs="tcp:183154:1" rendition="simple:additions"/>
+               <head>A Warning for Maides:</head>
+               <lg>
+                  <l>Or the falſe diſſembling,, cogging,</l>
+                  <l>Cunning, cozening young Man,</l>
+                  <l>Who long did try and uſe his skill,</l>
+                  <l>To wo a coy young Maid to his will</l>
+                  <l>And when he had obtain'd her love,</l>
+                  <l>To her he very falſe did prove.</l>
+                  <l>
+                     <hi>To a dainty new tune, called, <hi>No, no, not I.</hi>
+                     </hi>
+                  </l>
+               </lg>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man doffing his hat to a woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>ALl in a May morning in the merry month of May</l>
+                  <l>into the gréen Meddowes I did take my way,</l>
+                  <l>There I heard a young Man to his Love make reply,</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Swéet heart quoth this young Man, my love is intire,</l>
+                  <l>my heart is inflamed with <hi>Cupids</hi> hot fire.</l>
+                  <l>Your love I intreat, why ſhould you deny?</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O ſwéet 'tis thy love that I doe ſo much crave,</l>
+                  <l>and I will maintain you ſtill gallant and brave.</l>
+                  <l>Faire Miſtreſſe, for your love I certain ſhall die,</l>
+                  <l>
+                     <hi>Quoth ſhe, away fooliſh man, I care not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Will you ſéek to wrong a Man in ſuch a caſe?</l>
+                  <l>if I die for love, it will be your diſgrace,</l>
+                  <l>I hope you will yéeld me ſome other reply.</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Swéet, have you no more regard of a young man?</l>
+                  <l>I will ſtrive to doe thée all the good I can,</l>
+                  <l>Methinks you ſhould yéeld unto me by and by,</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And if that all Maids ſhould be of your mind,</l>
+                  <l>then what would or ſhould become of us mankind?</l>
+                  <l>Swéet let you and I now try our deſtiny,</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Pray what is the reaſon? I am young and faire,</l>
+                  <l>beſides you doe know I am my Fathers heire:</l>
+                  <l>Swéet let me intreat your love and courteſie,</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For vaulting or leaping, or ſuch exerciſes,</l>
+                  <l>for dancing or skipping I ſtill win the priſes,</l>
+                  <l>Come grant me thy favour my pretry pigſnie,</l>
+                  <l>
+                     <hi>But ſhe anſwered him ſcornfully, no, not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I am in all parts moſt compleat like a man,</l>
+                  <l>and I can doe as much as any can:</l>
+                  <l>Then prethée ſwéet heart doe not my love deny,</l>
+                  <l>
+                     <hi>Now ſhe anſwerd him kindly, ſweet Love not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If gold will content thée, why gold thou ſhalt have,</l>
+                  <l>or any thing elſe that thou canſt wiſh or crave:</l>
+                  <l>'Tis onely on thy love that I doe rely,</l>
+                  <l>
+                     <hi>Now ſhe had forgot to ſay, no, no not I.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="449" facs="tcp:183154:1" rendition="simple:additions"/>
+               <head>The ſecond Part, To the ſame tune.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man and a woman holding flowers or feathers</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>ILe be thy maintainer, thou ſhalt know no want,</l>
+                  <l>then let no diſparagement my ſwéet heart daunt:</l>
+                  <l>Thou ſhalt be my Bride, and Ile love thée truly.</l>
+                  <l>
+                     <hi>This Maid had forgot to ſay, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With ſwéet ſalutations theſe Lovers did part,</l>
+                  <l>he call'd her his joy, and ſhe call'd him ſwéet heart,</l>
+                  <l>Yet after this young Man his Love did deny,</l>
+                  <l>
+                     <hi>As I will declare unto you, by and by.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In little ſpace after ſhe met with her Deare,</l>
+                  <l>deſtring of him ſome farther newes to heare:</l>
+                  <l>She wiſhed him to marry her immediatly,</l>
+                  <l>
+                     <hi>But he anſwered her ſcornfully, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Swéet Love, ner'e deny me, thou knowſt I am thine,</l>
+                  <l>and thou oft did'ſt promiſe that thou wouldſt be mine:</l>
+                  <l>Now thy bitter anſwer makes me mourn and cry,</l>
+                  <l>
+                     <hi>To heare thee ſay unto me, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Faire Miſtreſſe, remember, when I ſued to you,</l>
+                  <l>you made a ſcoffe at me, and from me you flew:</l>
+                  <l>Now Ile give you leave to ſigh, ſob, and cry,</l>
+                  <l>
+                     <hi>Though you are diſpos'd to wed, ſo am not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When firſt I came to thée, to aske thy good will,</l>
+                  <l>thou mad'ſt a ſcorne of me, now I am as ill,</l>
+                  <l>I will not be tide for to wed by and by:</l>
+                  <l>
+                     <hi>Though you are diſpos'd to wed, ſo am not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Quoth ſhe, will you prove ſo perjur'd unto me?</l>
+                  <l>I am ſorry that ere I conſented to thée:</l>
+                  <l>Let no Maid truſt young-men, for they'l falſifie:</l>
+                  <l>
+                     <hi>Canſt thou anſwer ſcornfully, no, no not I?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Farewell thou falſe young-man, farewell and adue,</l>
+                  <l>the like ſaid this wanton youth, farewell to you.</l>
+                  <l>Now I doe ſée Maidens can love men truely:</l>
+                  <l>
+                     <hi>But I never meane to wed, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Was ever poore Maiden in ſuch a like caſe,</l>
+                  <l>to yéeld to undoing, and ſuch foule diſgrace?</l>
+                  <l>I might have béen wiſe, and ſtill made this reply:</l>
+                  <l>
+                     <hi>I will never yeeld to thee, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ile never truſt falſe young-man for his ſake,</l>
+                  <l>I had warning before, yet no warning could take:</l>
+                  <l>Theſe young-men will promiſe and preſent deny,</l>
+                  <l>
+                     <hi>Ile never truſt falſe tongue more, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now ſhall I be mocked of other young Maids,</l>
+                  <l>they'l dout me, and ſay, ſée how her colour fades:</l>
+                  <l>She is ſick for love, and forſooth they'l cry:</l>
+                  <l>
+                     <hi>Her Love now hath left her, and her doth deny.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But I wiſh all them that laugh me to ſcorne,</l>
+                  <l>hereafter beware, and eſcape the like harm:</l>
+                  <l>For young-men are cunning, and full of policy:</l>
+                  <l>
+                     <hi>But Ile never truſt them more, no, no not I.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I am not the firſt that hath ſo béen deceived,</l>
+                  <l>yet of a great number ne're was one more grieved.</l>
+                  <l>But now alas I can find no remedy:</l>
+                  <l>
+                     <hi>Ile ne're truſt falſe young-man more, no, no not I.</hi>
+                  </l>
+               </lg>
+               <byline>R. Climſall.</byline>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Iohn Wright</hi> the younger, dwel<g ref="char:EOLhyphen"/>ling at the upper end of the <hi>Old-Bayley.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
